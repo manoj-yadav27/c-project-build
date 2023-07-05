@@ -1,4 +1,4 @@
-ABC.exe:main.o big2.0 fact.o palindrome.o rev.o add2.c fibonacci.c sortnum.c big3.c
+ABC.exe:main.o big2.0 fact.o palindrome.o rev.o add2.o fibonacci.o sortnum.o big3.o
 	gcc -o ABC.exe main.o big2.o fact.o palindrome.o rev.o add2.o fibonacci.o sortnum.o big3.o
 main.o:main.c
 	gcc -c main.c

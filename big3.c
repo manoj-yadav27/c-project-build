@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-biggest3() {
+void biggest3() {
     int num1, num2, num3;
 
     printf("Enter the first number: ");

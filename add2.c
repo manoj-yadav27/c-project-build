@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-add2numbers() {
+void add2numbers() {
     int num1, num2, sum;
 
     printf("Enter the first number: ");

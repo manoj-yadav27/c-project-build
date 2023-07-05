@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-sortnum() {
+void sortnum() {
     int num1, num2, num3, temp;
 
     printf("Enter the first number: ");

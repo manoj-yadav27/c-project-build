@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-fibonacci() {
+void fibonacci() {
     int n, i;
     unsigned long long fib1 = 0, fib2 = 1, fib;
 
