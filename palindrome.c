@@ -4,7 +4,7 @@ void palindrome()
 {
     char a[5];
     int i,n,t=0;
-    printf("\nenter the string \n");
+    printf("\n enter the string \n");
     scanf("%s",a);
     for(i=0;i<strlen(a);i++)
     {
