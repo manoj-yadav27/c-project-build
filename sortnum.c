@@ -3,7 +3,7 @@
 void sortnum() {
     int num1, num2, num3, temp;
 
-    printf("Enter the first number: ");
+    printf("\n Enter the first number: ");
     scanf("%d", &num1);
 
     printf("Enter the second number: ");
