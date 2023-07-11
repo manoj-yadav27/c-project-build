@@ -4,7 +4,7 @@ void fibonacci() {
     int n, i;
     unsigned long long fib1 = 0, fib2 = 1, fib;
 
-    printf("\n Enter the number of terms: ");
+    printf("\n Enter the number of terms\n: ");
     scanf("%d", &n);
 
     printf("Fibonacci Sequence: ");
