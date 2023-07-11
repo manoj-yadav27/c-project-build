@@ -3,7 +3,7 @@
 void biggest3() {
     int num1, num2, num3;
 
-    printf("Enter the first number: ");
+    printf("\nEnter the first number: ");
     scanf("%d", &num1);
 
     printf("Enter the second number: ");
